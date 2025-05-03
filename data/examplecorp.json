@@ -1,0 +1,27 @@
+{
+    "name": "ExampleCorp",
+    "slug": "examplecorp",
+    "industry": "Industry Type",
+    "founded": "YYYY",
+    "headquarters": "City, Country",
+    "collected_by": "boboter",
+    "last_updated": "2025-05-02",
+    "promises": [
+      {
+        "text": "Sample advertising claim from sponsor marketing",
+        "sources": [
+          "https://example.com/ad-campaign",
+          "https://example.com/product-page"
+        ]
+      }
+    ],
+    "reality": [
+      {
+        "text": "Est commodo consequat qui incididunt quis sint velit sint aliqua laboris reprehenderit Lorem cupidatat. Anim laboris consectetur consequat ullamco velit sit irure. Reprehenderit ipsum excepteur est minim cupidatat eu fugiat eu culpa amet velit in. Ipsum ad ullamco ipsum laboris elit. Ut cillum ea aliquip irure aute elit ea adipisicing nostrud deserunt veniam aliqua velit. Fugiat in nisi ut irure magna. Minim duis nostrud eu consectetur est veniam do dolore voluptate commodo id. Aute deserunt dolor qui commodo qui in consequat nostrud nulla velit commodo. Reprehenderit id veniam quis enim exercitation ad consequat tempor. Laboris est sunt exercitation fugiat. Fugiat esse eiusmod veniam ullamco. Cupidatat occaecat sit sunt sunt mollit magna culpa ad incididunt. Incididunt deserunt reprehenderit aliqua sit sunt aliquip ut. Magna adipisicing tempor esse non magna nulla eu aute irure consequat elit deserunt in magna. Laboris proident officia aliqua esse nisi nostrud consectetur esse dolor irure irure dolor.",
+        "sources": [
+          "https://example.com/investigation",
+          "https://example.com/study"
+        ]
+      }
+    ]
+  }

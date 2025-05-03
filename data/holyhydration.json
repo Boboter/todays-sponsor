@@ -1,0 +1,27 @@
+{
+  "name": "Holy Hydration",
+  "industry": "Supplements",
+  "founded": "2020",
+  "headquarters": "Berlin, Germany",
+  "collected_by": "boboter",
+  "last_updated": "2025-05-02",
+  "promises": [
+    {
+      "text": "A healthier alternative to conventional sports drinks, featuring a balanced amount of electrolytes and significantly reduced sugar and calorie content."
+    }
+  ],
+  "reality": [
+    {
+      "evidence": "Nutritional data from HOLY, LMNT, and Nuun shows HOLY has significantly lower sugar than Gatorade and Powerade, with moderate electrolyte levels including potassium and magnesium. However, its sodium content is far lower than high-performance hydration products like LMNT.",
+      "verdict": "HOLY Hydration is objectively healthier than traditional sports drinks but does not offer superior performance metrics compared to modern hydration products designed for endurance or clinical use.",
+      "ampel": "yellow",
+      "ampelLabel": "Partially Valid",
+      "sources": [
+        "https://de.weareholy.com/products/10er-probier-box-hydration?variant=44665038766345",
+        "https://de.weareholy.com/cdn/shop/files/HT-0009-Coconut1-DE.png?v=1721808588&width=900",
+        "https://res.cloudinary.com/drinklmnt/image/upload/f_auto,q_auto/v1696530194/lmnt-salt-citrus-nutrition_jz43xt.webp",
+        "https://nuunlife.com/products/nuun-sport"
+      ]
+    }
+  ]
+}
