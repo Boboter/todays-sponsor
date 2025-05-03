@@ -37,31 +37,31 @@
       .header-bar {
         display: flex;
         align-items: center;
-        justify-content: space-between;
-        margin-bottom: 30px;
+        justify-content: flex-start;
+        margin-bottom: 10px;
       }
-  
+
       .home-icon img {
-        height: 40px;
+        height: 64px;
       }
-  
       .inline-query {
+        text-align: center;
         display: flex;
+        flex-direction: column;
         align-items: center;
-        flex-wrap: wrap;
         font-size: 1.8em;
         font-weight: bold;
-        text-align: center;
-        gap: 10px;
+        margin-bottom: 20px;
       }
   
       .sponsor-input {
-        font-size: 1rem;
-        padding: 6px 12px;
-        border-radius: 6px;
-        border: 1px solid #ccc;
-        background-color: #fff;
-        width: 300px;
+      font-size: 1rem;
+      padding: 6px 12px;
+      border-radius: 6px;
+      border: 1px solid #ccc;
+      background-color: #fff;
+      width: 300px;
+      text-align: center;
       }
   
       .autocomplete-box {
@@ -159,17 +159,18 @@
   
 <body>
   <header class="header-bar">
-    <a href="https://boboter.github.io" class="home-icon" title="Back to main">
+    <a href="https://boboter.github.io" class="home-icon" title="Back to main page">
       <img src="https://boboter.github.io/img/logo.png" alt="Logo">
     </a>
-    <div class="inline-query">
-      <label for="sponsorInput">Today's sponsor is</label>
-      <div style="position: relative;">
-        <input id="sponsorInput" class="sponsor-input" placeholder="Start typing...">
-        <div id="autocompleteBox" class="autocomplete-box" style="display: none;"></div>
-      </div>
-    </div>
   </header>
+  
+  <div class="inline-query">
+    <label for="sponsorInput">Today's sponsor is</label>
+    <div style="position: relative;">
+      <input id="sponsorInput" class="sponsor-input" placeholder="Start typing...">
+      <div id="autocompleteBox" class="autocomplete-box" style="display: none;"></div>
+    </div>
+  </div>
 
   <div class="sponsor-meta" id="sponsorMeta" style="display: none;"></div>
   <div id="comparisonContainer"></div>
