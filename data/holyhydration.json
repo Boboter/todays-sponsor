@@ -12,10 +12,10 @@
   ],
   "reality": [
     {
-      "evidence": "Nutritional data from HOLY, LMNT, and Nuun shows HOLY has significantly lower sugar than Gatorade and Powerade, with moderate electrolyte levels including potassium and magnesium. However, its sodium content is far lower than high-performance hydration products like LMNT.",
+      "evidence": "An analysis of the nutritional information of HOLY Hydration, LMNT, and Nuun reveals distinct compositional differences. HOLY contains only 0.1 g of sugar per 100 ml and approximately 4 kcal, which is significantly lower than conventional sports drinks like Gatorade and Powerade, which typically contain around 6–8 g of sugar and 25–30 kcal per 100 ml. HOLY also includes key electrolytes such as potassium (60 mg/100 ml) and magnesium (11.3 mg/100 ml), though in lower concentrations than LMNT, which delivers 1000 mg sodium, 200 mg potassium, and 60 mg magnesium per serving. Nuun tablets fall between these extremes, offering a balanced profile with 300 mg sodium and modest carbohydrate content. Compared to LMNT, HOLY’s sodium level is substantially lower (<0.1 g salt per 100 ml, ~40 mg sodium), making it less suitable for high-intensity endurance use, but well-suited for casual or everyday hydration.",
       "verdict": "HOLY Hydration is objectively healthier than traditional sports drinks but does not offer superior performance metrics compared to modern hydration products designed for endurance or clinical use.",
-      "ampel": "yellow",
-      "ampelLabel": "Partially Valid",
+      "ampel": "green",
+      "ampelLabel": "Valid",
       "sources": [
         "https://de.weareholy.com/products/10er-probier-box-hydration?variant=44665038766345",
         "https://de.weareholy.com/cdn/shop/files/HT-0009-Coconut1-DE.png?v=1721808588&width=900",
